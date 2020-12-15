@@ -1,1 +1,14 @@
 ничем
+
+11 коммитов (этот 12)
+added hometask.txt
+Merge branch 'boots_buttons'
+Merge branch 'hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge branch 'boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
